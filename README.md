@@ -1,2 +1,1 @@
-# RM-counter-
-made by rahul mahawer
+use for counter...maede by rahul mahawer
