@@ -1,1 +1,1 @@
-use for counter...made by rahul mahawer
+use for counting...made by rahul mahawer
