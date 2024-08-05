@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
   let count = localStorage.getItem('tapCount') || 0;
   const countDisplay = document.getElementById('count');
 
-  // Update the counter1 display
+  // Update the counter display
   function updateCount() {
     countDisplay.textContent = count;
     localStorage.setItem('tapCount', count);
